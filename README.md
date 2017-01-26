@@ -8,9 +8,9 @@ This is a forked repository overloaded with my personal project files.
 This is the folder of the processed images: [test images](https://github.com/lcfgr/CarND-LaneLines-P1/tree/master/test_images)  
 Also the output video files of the project are the following:  
 [Solid White line Right](https://github.com/lcfgr/CarND-LaneLines-P1/blob/master/solidWhiteRight.mp4)  
-[Solid Yellow Line Left](https://github.com/lcfgr/CarND-LaneLines-P1/blob/master/solidYellowLeft.mp4)
-[Challange video] (https://github.com/lcfgr/CarND-LaneLines-P1/blob/master/extra.mp4)
-[I'm an inline-style link](https://www.google.com)
+[Solid Yellow Line Left](https://github.com/lcfgr/CarND-LaneLines-P1/blob/master/solidYellowLeft.mp4)  
+[Challange video] (https://github.com/lcfgr/CarND-LaneLines-P1/blob/master/extra.mp4)  
+
 
 
 
