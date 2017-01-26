@@ -1,6 +1,20 @@
 #**Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+This is a forked repository overloaded with my personal project files.
+
+##Please find the link to the project notebook named P1-Final: [P1-Final.ipynb](https://github.com/lcfgr/CarND-LaneLines-P1/blob/master/P1-Final.ipynb)  
+
+This is the folder of the processed images: [test images](https://github.com/lcfgr/CarND-LaneLines-P1/tree/master/test_images)  
+Also the output video files of the project are the following:  
+[Solid White line Right](https://github.com/lcfgr/CarND-LaneLines-P1/blob/master/solidWhiteRight.mp4)  
+[Solid Yellow Line Left](https://github.com/lcfgr/CarND-LaneLines-P1/blob/master/solidYellowLeft.mp4)
+[Challange video] (https://github.com/lcfgr/CarND-LaneLines-P1/blob/master/extra.mp4)
+[I'm an inline-style link](https://www.google.com)
+
+
+
+
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 When we drive, we use our eyes to decide where to go.  The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle.  Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.
